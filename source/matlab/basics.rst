@@ -19,3 +19,9 @@ Then you can start the spm toolbox:
 .. code-block:: matlab
 
   spm
+
+And the CAT12 toolbox:
+
+.. code-block:: matlab
+
+  cat12
