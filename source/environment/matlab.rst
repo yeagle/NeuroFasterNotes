@@ -25,3 +25,6 @@ And the CAT12 toolbox:
 .. code-block:: matlab
 
   cat12
+
+Note that you need to start the fMRI section in the spm toolbox before the
+cat12 command, the cat12 command won't work.

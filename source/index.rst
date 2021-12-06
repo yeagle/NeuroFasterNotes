@@ -11,6 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   test/test
-   matlab/basics
+   environment/basics
+   environment/matlab
+   processing/nifti
 
