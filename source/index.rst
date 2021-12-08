@@ -9,9 +9,15 @@ Welcome to NeuroFaster's Documentation!
 Contents:
 
 .. toctree::
+   :caption: Working Environment
    :maxdepth: 2
 
    environment/basics
    environment/matlab
+
+.. toctree::
+   :caption: Data Processing
+   :maxdepth: 2
+
    processing/nifti
 
